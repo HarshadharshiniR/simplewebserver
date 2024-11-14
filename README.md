@@ -68,8 +68,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<env1 act.png>)
+![image](https://github.com/user-attachments/assets/8549ac9f-d00f-4ce3-b402-e63bbc2f3155)
 
-![alt text](op.png)
+![image](https://github.com/user-attachments/assets/bb1ee4d0-9b8a-42c6-b435-fe43593dcce4)
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
